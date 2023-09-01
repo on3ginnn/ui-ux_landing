@@ -403,6 +403,7 @@ footer{
 	line-height: calc(25 / 20 * 100%);
 	color: #749FC5;
 	margin: 0 auto;
+	text-aligin: center;
 }
 .copyright {
 	margin-top: 50px;
