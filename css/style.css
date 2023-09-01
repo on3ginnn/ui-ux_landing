@@ -397,10 +397,12 @@ footer{
 	padding-top: 200px;
 }
 .copyright-text {
+	
 	max-width: 526px;
 	font-size: 20px;
 	line-height: calc(25 / 20 * 100%);
 	color: #749FC5;
+	margin: 0 auto;
 }
 .copyright {
 	margin-top: 50px;
